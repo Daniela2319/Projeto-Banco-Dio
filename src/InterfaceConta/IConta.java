@@ -12,5 +12,7 @@ public interface IConta {
 
      void tranferir(double valor, Conta contaDestino);
 
+     void statusImprimirExtrato();
+
 
 }
